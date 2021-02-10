@@ -48,7 +48,7 @@ a {
   font-size: 15px;
   font-weight: bold;
   text-decoration: none;
-  border: 2px solid #FFF;
+  border: 1px solid #FFF;
   border-radius: 8px;
   background: linear-gradient(120deg, rgba(14,21,72,1) 0%, rgba(32,118,26,1) 100%);
   padding: 15px;
