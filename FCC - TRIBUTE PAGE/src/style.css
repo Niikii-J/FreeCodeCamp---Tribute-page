@@ -54,6 +54,10 @@ a {
   padding: 15px;
 }
 
+a:hover {
+    font-size: 70%;
+}
+
 .center {
   margin: 40px auto 40px;
   text-align:center;
